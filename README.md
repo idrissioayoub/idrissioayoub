@@ -3,6 +3,7 @@
 <!--
 **idrissioayoub/idrissioayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/idrissioayoub/idrissioayoub/blob/main/Linkedin%20032021.png" alt="banner">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
