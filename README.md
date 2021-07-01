@@ -4,7 +4,7 @@
 
 Living in France and actually student at <a href="https://www.eni-ecole.fr/">Eni ecole informatique</a>, i'm always looking for new challenges to improve my skills.
 
-I'm actually learning : JAVA  (POO, JEE), SQL(SQL Server), PHP, Symphony, JAVASCRIPT, HTML, CSS, Bootstrap and many more !
+I'm actually learning : Angular, JAVA  (POO, JEE), SQL(SQL Server), PHP/Symphony, JAVASCRIPT, HTML, CSS, Bootstrap and many more !
 
 All is connected, the coffee is HOT, let's code ! :)
 
