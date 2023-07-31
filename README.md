@@ -6,7 +6,13 @@ Je suis un développeur web 💻, spécialisé dans les technologies Node.js, Re
 
 Je suis capable de créer des applications web qui font la différence pour les utilisateurs 👨‍💻👩‍💻. J'adore travailler avec les dernières technologies 🚀 pour concevoir des expériences utilisateur inédites.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ioayoub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<div style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioayoub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="float:center;">
+</div>
+
+<br/>
 
 Mon expertise en Node.js et React.js me permet de créer des interfaces rapides et réactives 💨, tandis que mon expérience avec Next.js me permet d'aller encore plus loin dans les fonctionnalités 🚀, le tout avec le fantastique TypeScript.
 Grâce à ma connaissance de Symfony, je suis capable de construire des applications web robustes et fiables en Symfony 💻💪.
