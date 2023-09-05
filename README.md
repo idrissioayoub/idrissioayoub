@@ -10,7 +10,7 @@ I am a web developer 💻, mostly working with
 
 I love working with the latest technologies 🚀.
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ioayoub&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact](https://github-readme-stats-htopc4tgm-ioayoub.vercel.app/api/top-langs/?username=ioayoub)" style="float:center;">
+<img src="https://github-readme-stats-htopc4tgm-ioayoub.vercel.app/api/top-langs/?username=ioayoub" style="float:center;">
 
 
 I am a web developer with a strong focus on Node.js, React.js, Next.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users. I love working with the latest technologies to design unique user experiences.
