@@ -1,11 +1,12 @@
 ## Hi there, i'm Ayoub. Welcome to my page. 👋
 
-![image](https://github.com/ioayoub/ioayoub/assets/66207978/b3a99f8d-d801-4d2c-b2a9-c572a2a8f678)
+![image](https://github.com/ioayoub/ioayoub/assets/66207978/5eccbf18-15ac-46b4-b868-288745fc3ed0)
 
 I am a web developer 💻, mostly working with 
 - Node.js
 - React.js
 - Next.js
+- Express.js
 - PHP - Symfony.
 
 I love working with the latest technologies 🚀.
@@ -13,7 +14,7 @@ I love working with the latest technologies 🚀.
 <img src="https://github-readme-stats-htopc4tgm-ioayoub.vercel.app/api/top-langs/?username=ioayoub" style="float:center;">
 
 
-I am a web developer with a strong focus on Node.js, React.js, Next.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users. I love working with the latest technologies to design unique user experiences.
+I am a web developer with a strong focus on Node.js, React.js, Next.js, Express.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users. I love working with the latest technologies to design unique user experiences.
 
 I have experience in building fast and responsive interfaces, as well as robust and reliable applications. I am also proficient in TypeScript, which allows me to create more complex and powerful applications.
 
