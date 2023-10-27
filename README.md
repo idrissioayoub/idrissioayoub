@@ -11,9 +11,6 @@ I am a web developer 💻, mostly working with
 
 I love working with the latest technologies 🚀.
 
-<img src="https://github-readme-stats-htopc4tgm-ioayoub.vercel.app/api/top-langs/?username=ioayoub" style="float:center;">
-
-
 I am a web developer with a strong focus on Node.js, React.js, Next.js, Express.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users. I love working with the latest technologies to design unique user experiences.
 
 I have experience in building fast and responsive interfaces, as well as robust and reliable applications. I am also proficient in TypeScript, which allows me to create more complex and powerful applications.
