@@ -9,9 +9,9 @@ I am a web developer 💻, mostly working with
 - Express.js
 - PHP - Symfony.
 
-I love working with the latest technologies 🚀.
+I love working with the latest technologies with a particular interest in the Javascript ecosystem 🚀.
 
-I am a web developer with a strong focus on Node.js, React.js, Next.js, Express.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users. I love working with the latest technologies to design unique user experiences.
+I am a web developer with a strong focus on Node.js, React.js, Next.js, Express.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users but also about making useful tools.
 
 I have experience in building fast and responsive interfaces, as well as robust and reliable applications. I am also proficient in TypeScript, which allows me to create more complex and powerful applications.
 
