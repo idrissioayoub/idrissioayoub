@@ -9,7 +9,7 @@ I am a web developer 💻, mostly working with
 - Express.js
 - PHP - Symfony.
 
-I love working with the latest technologies with a particular interest in the Javascript ecosystem 🚀.
+I love working with the latest technologies with a particular interest in the JavaScript ecosystem 🚀.
 
 I am a web developer with a strong focus on Node.js, React.js, Next.js, Express.js and PHP - Symfony. I am passionate about creating web applications that make a difference for users but also about making useful tools.
 
