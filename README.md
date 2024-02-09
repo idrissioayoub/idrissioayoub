@@ -7,7 +7,7 @@ I am a web developer 💻, mostly working with
 - React.js
 - Next.js
 - Express.js
-- PHP - Symfony.
+- PHP - Symfony
 
 I love working with the latest technologies with a particular interest in the JavaScript ecosystem 🚀.
 
