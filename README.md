@@ -2,8 +2,7 @@
 
 You can check my website here : [IOAyoub.fr](https://ioayoub.fr)
 
-![image](https://github.com/ioayoub/ioayoub/assets/66207978/5eccbf18-15ac-46b4-b868-288745fc3ed0)
-
+![Banniere](https://github.com/user-attachments/assets/748ea8ea-c345-485a-83ff-fab98c48d744)
 
 
 I am a web developer 💻, mostly working with 
