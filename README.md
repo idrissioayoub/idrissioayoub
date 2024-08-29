@@ -1,4 +1,4 @@
-## Hi there, i'm Ayoub also know as IOAyoub. Welcome to my page. 👋
+## Hi there, i'm Ayoub IDRISSI OUEDRHIRI also know as IOAyoub. Welcome to my page. 👋
 
 You can check my website here : [IOAyoub.fr](https://ioayoub.fr)
 
