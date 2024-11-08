@@ -6,6 +6,8 @@ You can check my website here : [IOAyoub.fr](https://ioayoub.fr)
 
 
 I am a web developer 💻, mostly working with 
+- JavaScript
+- TypeScript
 - Node.js
 - React.js
 - Next.js
