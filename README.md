@@ -17,6 +17,8 @@ Additionally, I run my own company, specializing in consulting, and the design a
 
 With a passion for continuous learning, I enjoy tackling challenges, exploring cutting-edge technologies, and creating tools that make a tangible impact.
 
+You can check my website here : [IOAyoub.fr](https://ioayoub.fr)
+
 # FR 🇫🇷
 
 Je suis un développeur web passionné, spécialisé dans l’écosystème JavaScript, avec un intérêt particulier pour le partage de connaissances et la formation. Mon expertise technique comprend :
@@ -29,6 +31,8 @@ J’ai une expérience professionnelle dans la création d’applications web pe
 En parallèle, je dirige ma propre entreprise, spécialisée dans le conseil, ainsi que dans la conception et le développement d’applications et de sites web sur mesure. Mes services incluent la création de solutions digitales adaptées aux besoins spécifiques des entreprises, garantissant évolutivité, performance et satisfaction utilisateur.
 
 Passionné par l’apprentissage continu, j’aime relever de nouveaux défis, explorer les technologies de pointe et concevoir des outils à fort impact.
+
+Vous pouvez retrouver mon site internet ici : [IOAyoub.fr](https://ioayoub.fr)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ioayoub&bg_color=000&color=f9ce5c&line=f9ce5c&point=f9ce5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
